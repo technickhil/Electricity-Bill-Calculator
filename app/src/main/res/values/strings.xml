@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Electricity Bill Calculator</string>
+    <string name="hyperlink">Created By <a href="https://www.instagram.com/technickhil/">@technickhil</a></string>
+</resources>
